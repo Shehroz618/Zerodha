@@ -1,0 +1,13 @@
+.anchor-style{
+    text-decoration: none;
+    color: black;
+    margin-right: 2rem;
+
+}
+
+.nav-container{
+    position: fixed;
+    top:0;
+    
+    background-color: white;
+}

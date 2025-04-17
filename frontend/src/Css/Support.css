@@ -1,0 +1,43 @@
+.quick-links a{
+    width: 30%;
+    color: black;
+}
+
+.bg-custom-color{
+    background-color: #387ed1
+}
+
+
+
+ ol li>a{
+    color: white;
+}
+
+.ticket-row a  {
+    text-decoration: none;
+    
+    
+}
+ ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+/* .ticket-row  h5{
+    margin-bottom: 1rem;
+} */
+
+.listing-div li{
+    padding-inline-start: 24px;
+}
+
+.heading{
+    margin-bottom: 10px;
+}
+
+.support{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
